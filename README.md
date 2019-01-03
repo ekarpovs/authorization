@@ -1,3 +1,3 @@
 # NodeJS
 
-This NodeJS application is a slightly more optimized.
+Authorization micro service - provides CRUD permission for an user.

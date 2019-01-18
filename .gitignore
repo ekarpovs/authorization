@@ -2,6 +2,7 @@ dist
 logs
 results
 tmp
+*.log
 
 # Coverage reports
 coverage
